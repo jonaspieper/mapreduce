@@ -1,0 +1,18 @@
+Baby	0
+Books	1
+Cameras	2
+CDs	3
+Children's Clothing	4
+Computers	5
+Consumer Electronics	6
+Crafts	7
+DVDs	8
+Garden	9
+Health and Beauty	10
+Men's Clothing	11
+Music	12
+Pet Supplies	13
+Sporting Goods	14
+Toys	15
+Video Games	16
+Women's Clothing	17
